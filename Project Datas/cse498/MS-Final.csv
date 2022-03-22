@@ -1,0 +1,266 @@
+Undergrade University,Undergrade CGPA,Undergrade Department,IELTS,TOEFL,GRE/GMAT,Conference Paper,Journal Paper,Job Experience(Years),Accepted University,Ranking,University Class
+NSU,3.98,ENGLISH,9,0,0,1,0,1,University of Alberta (MA),119,A
+NSU,3.98,ENGLISH,9,0,0,1,0,1,University of British Columbia (MA),45,A
+NSU,3.98,ENGLISH,9,0,0,1,0,1,"University of York, UK (MA) ",150,A
+NSU,3.98,ENGLISH,9,0,0,1,0,1,University of Waterloo (MA),166,B
+NSU,3.98,ENGLISH,9,0,0,1,0,1,McMaster University ,140,A
+SUST,3.37,PME,7,0,312,1,1,0,University of Memphis,576,D
+SUST,3.37,PME,7,0,312,1,1,0,University of North Dakota ,561,D
+SUST,3.37,PME,7,0,312,1,1,0,University of Louisiana at Lafayette,666,D
+SUST,3.37,PME,7,0,312,1,1,0, Rowan University,1641,F
+SUST,3.37,PME,7,0,312,1,1,0,University of Alaska Fairbanks,603,D
+SUST,3.37,PME,7,0,312,1,1,0,Montana State University ,578,D
+SUST,3.37,PME,7,0,312,1,1,0,University of Texas Rio Grande Valley ,759,E
+UIU,3.65,EEE ,6.5,0,308,1,0,3,University Of Toledo,722,D
+DU,3.94,EEE,,120,325,11,0,0.7,University of California,31,A
+DU,3.94,EEE,,120,325,11,0,0.7,Rice University ,95,A
+AIUB,3.44,EEE,,92,301,2,0,0,University of Texas Rio Grande Valley (MS),759,E
+AIUB,3.44,EEE,,92,301,2,0,0,Darmstadt University of Applied Sciences (MS),1926,F
+AIUB,3.44,EEE,,92,301,2,0,0,South Dakota School of Mines and Technology,1845,F
+DU,3.43,GEO,7,0,300,0,0,0.8,Kent State University,801,E
+SUST,3.01,CSE,7,0,305,1,0,12,"NEW MEXICO STATE UNIVERSITY, LAS CRUCES",783,E
+DU,3.53,GEO,0,101,317,0,0,0,University of Texas,65,A
+DU,3.53,GEO,0,101,317,0,0,0, Dallas (MS),401,C
+DU,3.53,GEO,0,101,317,0,0,0,"University of Arkansas, Fayettville",601,D
+CUET,3.02,URP,0,88,309,6,0,4,"Missouri State University, USA",800,E
+BUET,3.02,IPE ,0,108,321,0,1,0.5,UC Merced,879,E
+BUET,3.02,IPE ,0,108,321,0,1,0.5,University of California Merced,879,E
+MIST,3.24,EEE,7.5,0,319,0,0,5.6,Georgia State University,480,C
+MIST,3.24,EEE,7.5,0,319,0,0,5.6,UT Dallas,401,C
+MIST,3.24,EEE,7.5,0,319,0,0,5.6,UT Arlington,558,D
+MIST,3.24,EEE,7.5,0,319,0,0,5.6,Kennesaw State University,1871,F
+MIST,3.24,EEE,7.5,0,319,0,0,5.6,Central Michigan University,1473,F
+RUET,3.22,ME,6.5,0,311,2,2,2.5, University of Alabama,387,C
+RUET,3.22,ME,6.5,0,311,2,2,2.5,Tuscaloosa,387,C
+RUET,3.22,ME,6.5,0,311,2,2,2.5,Oklahoma State University,766,E
+BUET,3.84,ME,0,91,308,0,0,0,"University of Minnesota, Duluth.",156,A
+IUT,3.75,ME,7.5,0,318,3,0,0,University of Akron(MSc),494,C
+IUT,3.75,ME,7.5,0,318,3,0,0,University of Louisiana at Lafayette(MSc),666,D
+IUT,3.75,ME,7.5,0,318,3,0,0,"Concordia University, Canada(MSc)",613,D
+IUT,3.75,ME,7.5,0,318,3,0,0,University of Toledo,722,D
+KUET,3.94,IEM,0,88,305,1,1,0,University of Toledo,722,D
+DU,3.31,BBA,7,0,306,0,0,0,Bowling Green State University,1101,F
+DU,3.31,BBA,7,0,306,0,0,0,Middle Tennessee State University ,758,E
+DU,3.31,BBA,7,0,306,0,0,0,Central Michigan University,1473,F
+DU,3.31,BBA,7,0,306,0,0,0, Illinois State University,1355,F
+DU,3.31,BBA,7,0,306,0,0,0,University of Toledo,722,D
+BUET,3.15,IPE ,7.5,0,316,1,0,7,Western Michigan University,625,D
+BUET,3.15,IPE ,7.5,0,316,1,0,7,West Virginia University,617,D
+BUET,3.15,IPE ,7.5,0,316,1,0,7,Montana State University,578,D
+BUET,3.15,IPE ,7.5,0,316,1,0,7,Grand valley State University,1879,F
+BUET,3.15,IPE ,7.5,0,316,1,0,7, North Carolina A&T University,1950,F
+BUET,3.15,IPE ,7.5,0,316,1,0,7,TAMU Kingsville.,1949,F
+SUST,3.2,CEE,6.5,0,313,0,3,0.7,Florida Atlantic University,854,E
+CUET,3.33,GEO,0,100,0,1,0,0.4,State University of New York College of Environmental Science and Forestry,46,A
+SUST,3.15,ARCHITECTURE,7.5,0,0,2,0,2,NC state University,285,B
+SUST,3.15,ARCHITECTURE,7.5,0,0,2,0,2,Iowa state University,177,B
+NU,3.08,ETE,7,0,301,3,3,4.8,Florida International University (FIU),756,D
+NU,3.08,ETE,7,0,301,3,3,4.8,North Carolina A&T State University,1950,F
+MIST,3.48,ANE,7,0,301,1,0,3.5,Carleton University (Partially funded),625,D
+MIST,3.48,ANE,7,0,301,1,0,3.5,"Canada, Fredericton",537,D
+KUET,3.7,URP,0,99,307,0,0,2,Kent State University,722,D
+JUET,3.4,PME,0,86,310,2,2,0,University of Texas Rio Grande Valley,759,E
+KUET,3.15,EEE,6.5,0,309,0,0,1.5,South Dakota School of Mines & ,1845,F
+KUET,3.15,EEE,6.5,0,309,0,0,1.5,University of Houston ,299,B
+KUET,3.15,EEE,6.5,0,309,0,0,1.5,California Polytechnic State University,1207,F
+KUET,3.15,EEE,6.5,0,309,0,0,1.5,San Louis Obispo,1207,F
+KUET,3.15,EEE,6.5,0,309,0,0,1.5,University of New Mexico ,196,B
+KUET,3.15,EEE,6.5,0,309,0,0,1.5,University of South Alabama,1318,F
+MIST,3.67,CSE,7.5,0,0,7,0,4,University of Calgary,184,B
+RUET,3.25,ME,6.5,0,302,2,0,4,University of New Mexico,196,B
+RUET,3.25,ME,6.5,0,302,2,0,4,University of Toledo,722,D
+RUET,3.25,ME,6.5,0,302,2,0,4,Arizona State University,212,B
+RUET,3.25,ME,6.5,0,302,2,0,4,Texas State University,630,D
+RUET,3.5,ETE,6.5,0,308,2,0,3.6,The University of Texas Rio Grande Valley,759,E
+JU,3.69,ENGLISH,8,0,0,13,0,6.5,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE (LSE),27,A
+DU,3.54,BBA,0,88,305,0,0,2,University of Toledo ,722,D
+DU,3.54,BBA,0,88,305,0,0,2,CMU ,46,A
+DU,3.54,BBA,0,88,305,0,0,2,NMSU,783,E
+DU,3.54,BBA,0,88,305,0,0,2,WIU,1130,F
+DU,3.54,BBA,0,88,305,0,0,2,MTSU ,758,E
+DU,3.54,BBA,0,88,305,0,0,2,SDSU ,524,D
+DU,3.54,BBA,0,88,305,0,0,2,Memorial University of Newfoundland,606,D
+RUET,3.46,IPE ,0,84,301,1,2,3," Texas Tech University (PhD Rejected, MS Admission)",630,D
+RUET,3.46,IPE ,0,84,301,1,2,3," University of Connecticut (MS Admission, Without Fund)",743,D
+RUET,3.46,IPE ,0,84,301,1,2,3,Texas State University,630,D
+AUST,3.52,EEE,7,0,295,0,0,2.5,Southern Illinois University,743,D
+AUST,3.52,EEE,7,0,295,0,0,2.5, South Dakota State University and,1099,F
+AUST,3.52,EEE,7,0,295,0,0,2.5,Ohio State University ,101,A
+AUST,3.52,EEE,7,0,295,0,0,2.5,Texas State University,630,D
+BUET,3.33,ME,0,107,330,0,0,0.7,University of Louisiana at Lafayette,666,D
+BUET,3.63,ME,7.5,0,319,1,0,3,Central Michigan University ,1473,F
+IUT,3.89,CSE,0,106,313,0,0,45,Illinois Institute of Technology (IIT),395,C
+IUT,3.89,CSE,0,106,313,0,0,45,University of Saskatchewan,303,C
+KUET,3.55,URP,0,112,321,1,1,1.1,Iowa State University ,177,B
+KUET,3.55,URP,0,112,321,1,1,1.1,The University of Texas at Austin,67,A
+UAP,3.43,CEE,7,0,306,1,0,2,Florida International University (FIU),756,E
+IUB,4,BIO,7,0,310,0,0,0,University of Central Florida.,605,D
+IUB,4,BIO,7,0,310,0,0,0,North Dakota State University(NDSU),561,D
+IUT,3.73,CSE,7,0,0,2,2,0.6,University of Manitoba,617,D
+IUT,3.73,CSE,7,0,0,2,2,0.6,University of Alberta ,119,A
+AIUB,3.99,CSE,0,109,337,1,0,0.6,University of British Columbia-Okanagan,45,A
+AIUB,3.99,CSE,0,109,337,1,0,0.6,University of Manitoba,617,D
+AIUB,3.99,CSE,0,109,337,1,0,0.6, University of Western Ontario,207,B
+AIUB,3.99,CSE,0,109,337,1,0,0.6,University of Alberta,119,A
+DU,3.43,SWE,0,102,309,1,0,0,New Mexico State University,147,A
+DU,3.63,CHEMISTRY,0,88,301,0,0,2,"Louisiana State University,",666,D
+DU,3.63,CHEMISTRY,0,88,301,0,0,2, Wayne State University,739,D
+DU,3.63,CHEMISTRY,0,88,301,0,0,2, Michigan Technological University,591,D
+DU,3.6,BBA,7,0,308,0,0,0,Illinois State University,1355,F
+JU,3.9,MATH,0,99,310,0,0,0,Kansas State ,754,E
+JU,3.9,MATH,0,99,310,0,0,0,Concordia University,613,D
+JU,3.9,MATH,0,99,310,0,0,0,Texas Tech University,630,D
+DU,3.27,PHYSICS,0,91,0,2,4,1.5,Wichita State University,1638,F
+DU,3.27,PHYSICS,0,91,0,2,4,1.5, University of Akron,494,C
+DU,3.27,PHYSICS,0,91,0,2,4,1.5,University of Idaho,665,D
+DU,3.27,PHYSICS,0,91,0,2,4,1.5,Wright State University.,825,E
+DU,3.27,PHYSICS,0,91,0,2,4,1.5,Miami University,751,E
+SAU,3.52,AE,7.6,0,0,0,0,0,North Dakota State University,561,E
+DU,3.67,OTHER,0,96,301,2,1,2,Illinois State University,1355,F
+EWU,3.36,BBA,7,0,0,0,0,2,University of Wollongong,181,B
+JU,3.62,BIOTECH,0,108,320,1,0,0,Missouri State University,800,E
+AUST,3.2,IPE,6.5,0,303,0,0,1.5,RIT,935,E
+AUST,3.2,IPE,6.5,0,303,0,0,1.5,UTK,432,C
+AUST,3.2,IPE,6.5,0,303,0,0,1.5,North Dakota,561,D
+AUST,3.2,IPE,6.5,0,303,0,0,1.5,Colorado State University-Pueblo,1202,F
+OTHER,3.42,CSE,,0,0,1,0,0.6,RWTH Aachen University,130,A
+OTHER,3.3,OTHER,7.5,0,305,0,0,0.7,Saint Louis University,441,C
+IUT,3.15,CEE,8,0,316,1,0,2,Pennsylvania State University (No funding),101,A
+IUT,3.15,CEE,8,0,316,1,0,2,"University of Nevada, Reno (No funding)",599,D
+IUT,3.15,CEE,8,0,316,1,0,2,Florida Institute of Technology,956,E
+IUT,3.15,CEE,8,0,316,1,0,2,University of Alabama at Birmingham (Full funding),191,B
+IUT,3.15,CEE,8,0,316,1,0,2,University of Kansas,224,B
+BUP,3.5,MEDICINE,7,0,0,1,0,1," Bangor University, Wales ( Medical Microbiology and Genetics)",646,D
+BUP,3.5,MEDICINE,7,0,0,1,0,1,"Sheffield University, UK ( Cardiovascular Medicine, Genomic Medicine, Regenerative Medicine )",117,A
+BUP,3.5,MEDICINE,7,0,0,1,0,1,"  Imperial College London, UK ( Genomic Medicine)",9,A
+BUP,3.5,MEDICINE,7,0,0,1,0,1,"University of Oslo, Norway (MPH)",56,A
+BUP,3.5,MEDICINE,7,0,0,1,0,1," University of Bergen, Norway (MPH)",201,B
+BUP,3.5,MEDICINE,7,0,0,1,0,1, Vrije Universitat Brussels,200,B
+BUP,3.5,MEDICINE,7,0,0,1,0,1,Otto Von Guericke Universitat Magdeburg,600,D
+DU,3.57,OTHER,0,92,296,0,0,0,Georgia Southern University ,781,E
+DU,3.57,OTHER,0,92,296,0,0,0,"Colorado State,University, Fort Collins",1202,F
+DU,3.57,OTHER,0,92,296,0,0,0,"University of,Memphis ",576,D
+DU,3.57,OTHER,0,92,296,0,0,0,",Antwerp University",238,B
+DU,3.57,OTHER,0,92,296,0,0,0,Colorado State University,1202,F
+KUET,3.49,URP,7.5,0,307,1,0,0, University of Wisconsin-Milwaukee,572,D
+KUET,3.49,URP,7.5,0,307,1,0,0, University of Colorado,1202,F
+KUET,3.49,URP,7.5,0,307,1,0,0,Florida State University,431,C
+KUET,3.49,URP,7.5,0,307,1,0,0,Arizona State University,212,B
+KUET,3.49,URP,7.5,0,307,1,0,0,University of Iowa,421,C
+DU,3.65,BBA,0,96,314,1,1,1.8,Stevens Institute of Technology ,1027,F
+DU,3.65,BBA,0,96,314,1,1,1.8,University of Tampa,1843,F
+DU,3.65,BBA,0,96,314,1,1,1.8,University of New Brunswick,928,E
+DU,3.65,OTHER,7,0,317,0,0,1,Northern Illinois University,727,D
+DU,3.65,OTHER,7,0,317,0,0,1,Pennsylvania State University,102,A
+DU,3.65,OTHER,7,0,317,0,0,1,Illinois State University,1355,F
+RUET,3.31,ME,0,100,313,0,0,0.3,Cleveland State Uni,1418,F
+RUET,3.31,ME,0,100,313,0,0,0.3, Texas State University,630,D
+KUET,3.29,EEE,0,90,315,2,3,1.5,",Clarkson University ",1178,F
+KUET,3.29,EEE,0,90,315,2,3,1.5,University of Minnesota Duluth ,1377,F
+KUET,3.29,EEE,0,90,315,2,3,1.5,Baylor University,805,E
+BUET,3.52,OTHER,0,98,306,1,1,0,"Arizona State University (MS, no fund)",212,B
+BUET,3.52,OTHER,0,98,306,1,1,0,University of Arkansus ,831,E
+BUET,3.52,OTHER,0,98,306,1,1,0,Mississippi State University ,616,D
+BUET,3.52,OTHER,0,98,306,1,1,0,University of New Hampshire,811,E
+EWU,3.6, BBA,7,0,324,0,0,3,"LA trobe, RMIT",223,B
+AIUB,3.39,CSE,0,0,314,1,0,3,Georgia Southern University,781,E
+AIUB,3.39,CSE,0,0,314,1,0,3," Kennesaw State University, Marietta",437,C
+AIUB,3.39,CSE,0,0,314,1,0,3,University of South Dakota,1178,F
+BUET,3.39,CEE,0,97,305,0,0,0,University of Nevada,599,D
+BUET,3.39,CEE,0,97,305,0,0,0,Texas A & M University,195,B
+BUET,3.39,CEE,0,97,305,0,0,0,Florida A & M University,2003,F
+CU,3.42,TE,0,96,310,0,0,4,Kansas State University,710,D
+CU,3.42,TE,0,96,310,0,0,4,Colorado State University,1202,F
+CU,3.42,TE,0,96,310,0,0,4, University of Georgia.,503,D
+CU,3.42,TE,0,96,310,0,0,4,Louisiana State University,707,D
+DU,3.29,SWE,0,108,319,1,0,4, Tufts ,253,B
+DU,3.29,SWE,0,108,319,1,0,4, ASU,209,B
+DU,3.29,SWE,0,108,319,1,0,4, University of Colorado Boulder,182,B
+DU,3.29,SWE,0,108,319,1,0,4,UTD (TA/RA).,427,C
+DU,3.29,SWE,0,108,319,1,0,4,Iowa State University,473,C
+DU,3.06,MATH,0,99,331,0,0,0.3,The University of Maine,562,D
+DU,3.06,MATH,0,99,331,0,0,0.3,Western Kentucky University,1728,F
+DU,3.06,MATH,0,99,331,0,0,0.3,The University of Toledo,722,D
+DU,3.06,MATH,0,99,331,0,0,0.3,Texas A&M University Kingsville,203,B
+DU,3.06,MATH,0,99,331,0,0,0.3,Wright State University,604,D
+DU,3.06,MATH,0,99,331,0,0,0.3,The University of Southern Mississippi,710,D
+IUT,3.62,CSE,7,0,313,6,0,2.5,York University,532,D
+IUT,3.85, CSE,6.5,0,310,0,1,1.5,"Espoo, Finland",127,A
+OTHER,3.45,TE,0,104,308,2,0,5,Colorado State University,1202,F
+OTHER,3.45,TE,0,104,308,2,0,5,Iowa State University,473,C
+OTHER,3.45,TE,0,104,308,2,0,5,Philadelphia University,62,A
+OTHER,3.45,TE,0,104,308,2,0,5,Louisiana State University,707,D
+DU,3.11,PHYSICS,0,86,318,0,0,0,University of Texas – El Paso ,71,A
+DU,3.11,PHYSICS,0,86,318,0,0,0, University of Texas - Rio Grande Valley (MS,759,D
+DU,3.11,PHYSICS,0,86,318,0,0,0,Western Illinois University (MS),1355,F
+DU,3.11,PHYSICS,0,86,318,0,0,0,Central Michigan University,1473,F
+SUST,3.15,EEE,8,0,316,2,3,0,University of Texas at Dallas (MS),505,D
+SUST,3.15,EEE,8,0,316,2,3,0, University of North Texas (MS),682,D
+SUST,3.15,EEE,8,0,316,2,3,0,Clemson University (MS),707,D
+SUST,3.15,EEE,8,0,316,2,3,0,University of Central Florida (MS),726,D
+SUST,3.15,EEE,8,0,316,2,3,0,Texas State University (San Marcos),630,D
+IUT,3.61,CEE,0,105,304,7,3,2,"Ohio University, MS",803,E
+IUT,3.61,CEE,0,105,304,7,3,2," East Carolina University, MS ",521,D
+IUT,3.61,CEE,0,105,304,7,3,2," University of New Orleans, MS",1432,F
+IUT,3.61,CEE,0,105,304,7,3,2," University of Waterloo, MS ",166,B
+IUT,3.61,CEE,0,105,304,7,3,2,"University of Memphis, MS",576,D
+IUT,3.61,CEE,0,105,304,7,3,2,"Michigan Tech, MS ",591,D
+IUT,3.61,CEE,0,105,304,7,3,2," University of Nevada, Las Vegas",599,D
+IUT,3.61,CEE,0,105,304,7,3,2,"Utah State University, MS (Self Fund)",872,E
+IUT,3.61,CEE,0,105,304,7,3,2,"Boise State University,USA, Idaho",1190,F
+BUET,3.83,CSE,,112,327,1,0,1.6,Unuversity of Alberta,119,A
+RUET,3.41,EEE,,104,315,1,0,0.9,"University of Texas Rio Grande Valley (MS, PGRA scholarship)",71,A
+BUET,2.98,WRE,7,0,305,6,3,3.5,"Mississippi State University (Msc, Civil Engineering)",800-1000,E
+CUET,3.84,EEE,0,103,320,3,0,0.1,"University of Florida (MS,",162,B
+CUET,3.84,EEE,0,103,320,3,0,0.1,Marquette University (MS,800-100,E
+KUET,3.65,URP,0,100,314,1,0,1,Michigan State University(MS),157,B
+KUET,3.65,URP,0,100,314,1,0,1, George Washington University (MS),353,C
+KUET,3.65,URP,0,100,314,1,0,1," University of Massachusetts, Amherst(MS)",270,B
+KUET,3.65,URP,0,100,314,1,0,1, Florida International University (MS),750-800,E
+KUET,3.65,URP,0,100,314,1,0,1,University of Kentucky(MS),600-650,D
+BUET,3.74,EEE,0,105,215,3,4,2," University of Utah (masters, no fund)",333,B
+BUET,3.74,EEE,0,105,215,3,4,2,"University of Rochester (Masters, 50% fund)",166,B
+BRAC,3.64,CSE,8,0,310,1,0,0.3,"Manitoba(Ms,50% fund)",600-650,D
+BRAC,3.64,CSE,8,0,310,1,0,0.3," University of alberta( Ms,no fund)",119,A
+BRAC,3.64,CSE,8,0,310,1,0,0.3,Moscow state Uni(Ms,74,A
+AIUB,3.81,CSE,8,0,318,1,2,0,"University of Rochester (MS in Optics, 10% scholarship)",166,B
+DU,3.71,BBA,,87,315,0,0,0.6,"University at Buffalo (Masters,",346,C
+CUET,3.46,PME,0,88,312,2,1,0,University of Louisiana at Lafayette- M.S.,650-700,D
+OTHER,2.93,PHARMACY,0,0,308,10,0,0, Northeastern University ( MS in Pharmacology ),362,C
+BUET,3.81,EEE,0,109,322,2,1,0.95,"University of California, Davis (M.Sc",112,A
+BUET,3.81,EEE,0,109,322,2,1,0.95, Arizona State University (M.Sc,220,B
+BUET,3.81,EEE,0,109,322,2,1,0.95, McGill University (M. Engg,31,A
+BUET,3.08,CHEMICAL,0,107,319,0,0,0.3,"UUni of Cincinnati (partial, got admission in Meng",600-650,D
+OTHER,3.95,BBA,7,0,312,0,1,0,North Dakota State University (MS),922,E
+OTHER,3.95,BBA,7,0,312,0,1,0,South Dakota State University (MS),1099,F
+KUET,3.58,EEE,0,117,325,0,0,0,Arizona State University (MS),220,B
+KUET,3.58,EEE,0,117,325,0,0,0,North Carolina State University (MS),295,B
+KUET,3.58,EEE,0,117,325,0,0,0, University of Utah (MS,333,C
+BUET,3.82,ME,0,96,315,0,0,0.6,IUPUI (MS),320,C
+BUET,3.82,ME,0,96,315,0,0,0.6,Wright State University (MS),825,E
+KUET,3.29,EEE,0,90,315,2,3,1.5,Clarkson University (MS,750-800,E
+KUET,3.29,EEE,0,90,315,2,3,1.5, University of Minnesota Duluth (MS,1377,F
+KUET,3.59,EEE,0,103,317,4,0,2,University of Utah (MS),333,C
+KUET,3.59,EEE,0,103,317,4,0,2,Michigan Technological University (MS),600-650,D
+KUET,3.59,EEE,0,103,317,4,0,2, University at Buffalo-SUNY (MS),346,C
+SUST,3.85,CSE,0,90,315,1,0,5,University of Texas –Dallas (MS),530,D
+BUET,3.13,CEE,0,94,308,1,0,2,University of Missouri (MS,483,C
+BUET,3.13,CEE,0,94,308,1,0,2,University of North Carolina- Charlotte (Lee) (MS,95,A
+BUET,3.13,CEE,0,94,308,1,0,2,Florida Atlantic University (MS,864,E
+BUET,3.6,CHEMICAL,0,84,314,5,1,0,SUNY Buffalo (MS,346,C
+BUET,3.6,CHEMICAL,0,84,314,5,1,0," Illinois Institute of Technology (MS, no fund)",426,C
+BUET,3.93,EEE,0,108,320,0,0,0.8,"University of Michigan - Ann Arbor (MSc,",21,A
+KU,3.5, CSE,8,0,314,0,0,0.95,"NY (MS, partial funding)",39,A
+SUST,3.81,CSE,0,82,317,2,0,3,University of Texas – Dallas (MS),530,D
+CU,3.4,PHYSICS,0,103,330,2,0,2, University of Oregon (ms in cs),600-650,D
+ BUET,3.87, EEE,0,109,298,0,0,4,BU (MS Admission),89,A
+KUET,3.59,EEE,0,103,0,0,1,2,University of Utah (MS,333,C
+KUET,3.59,EEE,0,103,0,0,1,2, Michigan Technological University (MS),600-650,D
+MIST,3.57,AE,6.5,0,306,4,1,25,Wichita State University (MSc),1638,F
+MIST,3.57,AE,6.5,0,306,4,1,25,New Mexico State University (MSc),783,E
+MIST,3.14,AE,0,105,307,8,0,0.7,VT(MS-AE),275,B
+MIST,3.14,AE,0,105,307,8,0,0.7,TAMU(MENG-ME),195,B
+MIST,3.14,AE,0,105,307,8,0,0.7,UNC Charlotte (MS-ME),765,E
+MIST,3.14,AE,0,105,307,8,0,0.7,NIU(MS-ME),727,D
+MIST,3.14,AE,0,105,307,8,0,0.7, UNT(MS-EE) ,682,D
+SEU,3.9,ETE,0,100,315,1,0,7,"UT Dallas – MS,Colorado State University-MS",443,C
